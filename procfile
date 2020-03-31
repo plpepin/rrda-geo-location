@@ -1,2 +1,3 @@
 web: go build
 web: go install rrda
+web: ./rrda
